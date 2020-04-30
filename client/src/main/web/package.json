@@ -22,7 +22,7 @@
     "@ng-bootstrap/ng-bootstrap": "^5.1.2",
     "@stomp/stompjs": "^5.4.2",
     "bootstrap": "^4.3.1",
-    "jquery": "^3.4.1",
+    "jquery": "^3.5.0",
     "node-sass": "^4.13.0",
     "rxjs": "~6.4.0",
     "sockjs-client": "^1.4.0",
